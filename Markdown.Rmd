@@ -1,0 +1,4 @@
+# What I hope to learn in INFO 201
+  - **How** to code in programming language *R*
+  - **How** to think *critically*
+  - **How** to write code to analyze data
